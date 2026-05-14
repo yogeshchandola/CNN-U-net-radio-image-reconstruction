@@ -6,3 +6,11 @@
 - uv sampling is still idealized compared to realistic interferometer tracks.
 - Residual sidelobe-like artifacts remain challenging.
 - Cross-interferometer generalization has not yet been explored.
+
+## Future directions
+- realistic uv tracks.
+- visibility-domain learning.
+- telescope-conditioned training.
+- uncertainty estimation.
+- beam-aware artifact suppression.
+
